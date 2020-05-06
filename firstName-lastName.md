@@ -2,7 +2,7 @@
 layout: resume # don't touch
 categories: [ hire, graduation, austincodingacademy ] # don't touch
 
-fullname:
+fullname: Sam Barrick
 jobtitle:
 
 location: Austin, TX
@@ -12,47 +12,48 @@ blurb: ""
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
 skills:
   - JavaScript
-  - C#
-  - .NET
+  - React.js
+  - Redux
   - SQL
-  - Angular.js
   - HTML
   - CSS
-  - Testing
   - Heroku
   - Git/GitHub
-  - WebPack
-  - REST APIs
 
-github: https://github.com/your-username
-linkedin: https://www.linkedin.com/in/your-username
+github: https://github.com/sambarrick
+linkedin: https://www.linkedin.com/in/samuelbarrick
 
-email: # email for professional use
+email: # samueljbarrick@gmail.com
 phone: # cell number
 
 # Make sure to edit these to be accurate for your work! The more relevant the better if the role was technical, don't feel like you need to put every job you've had.
 
 workexperience:
-  - company:
-    dates: October 2014 - March 2018
-    title: Logistics Manager
+  - company: Siemens Smart Infrastructure
+    dates: May 2018 - Present
+    title: Project Coordinator
     location: Austin, TX
 
-  - company:
-    dates: June 2014 - Februrary 2016
-    title: Asbestos Inspector & Abatement Project Manager
+  - company: Studio Dzo
+    dates: August 2016 - January 2018
+    title: Project Manager
     location: Austin, TX
 
-  - company:
-    dates: April 2008 - May 2014
-    title: Delivery Driver
-    location: Austin, TX
+  - company: Signtech Electrical Advertising
+    dates: June 2015 - July 2016
+    title: Project Coordinator
+    location: San Diego, CA
 
 
 education:
   - name: Austin Coding Acaademy
-    dates: Feb 2019 - Dec 2019
-    degree: Web Development
+    dates: April 2019 - May 2020
+    degree: Full Stack Web Development
+    
+  - name: San Diego State University
+    dates: August 2009 - May 2014
+    degree: Kinesiology
+
 
 projects:
   - name: # title of your project
