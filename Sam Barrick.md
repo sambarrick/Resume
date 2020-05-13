@@ -56,8 +56,8 @@ education:
 
 
 projects:
-  - name: # Friends With Recipes
-    desc: # A no frills way to store and share your personal recipes with family and friends!
+  - name: Friends With Recipes#
+    desc: A no frills way to store and share your personal recipes with family and friends!#
     url: # link to your deployed project
 
 ---
