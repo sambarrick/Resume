@@ -3,10 +3,10 @@ layout: resume # don't touch
 categories: [ hire, graduation, austincodingacademy ] # don't touch
 
 fullname: Sam Barrick
-jobtitle:
+jobtitle: Project Coordinator
 
 location: Austin, TX
-blurb: ""
+blurb: "Keep it simple, make it happen"
 
 # first item must be C# or .NET or C#/.NET
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
@@ -17,6 +17,7 @@ skills:
   - SQL
   - HTML
   - CSS
+  - Auth0
   - Git/GitHub
 
 github: https://github.com/sambarrick
