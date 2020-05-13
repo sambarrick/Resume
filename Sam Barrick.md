@@ -17,7 +17,6 @@ skills:
   - SQL
   - HTML
   - CSS
-  - Heroku
   - Git/GitHub
 
 github: https://github.com/sambarrick
