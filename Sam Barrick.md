@@ -14,7 +14,7 @@ skills:
   - JavaScript
   - React.js
   - Redux
-  - SQL
+  - MySQL
   - HTML
   - CSS
   - Auth0
@@ -24,7 +24,7 @@ github: https://github.com/sambarrick
 linkedin: https://www.linkedin.com/in/samuelbarrick
 
 email: samueljbarrick@gmail.com
-phone: cell number
+phone: 619-322-9077
 
 # Make sure to edit these to be accurate for your work! The more relevant the better if the role was technical, don't feel like you need to put every job you've had.
 
@@ -57,7 +57,7 @@ education:
 
 projects:
   - name: Friends With Recipes
-    desc: A no frills way to store and share your personal recipes with family and friends!
-    url: xenodochial-noyce-23c748.netlify.app
+    desc: A no frills solution to store and share your personal recipes with family and friends!
+    url: https://recipe-app-database-271816.uc.r.appspot.com/
 
 ---
